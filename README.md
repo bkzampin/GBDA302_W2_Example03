@@ -6,7 +6,7 @@ GBDA302 Week 2 Example 3: Platforms (AABB Collisions)
 
 ## Authors
 
-Karen Cochrane and David Han
+Brianna Zampini
 
 ---
 
@@ -34,6 +34,4 @@ N/A
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
-
----
+## ChatGPT was used to help adjust values in the original code to better express panic
