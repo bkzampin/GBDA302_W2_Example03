@@ -34,7 +34,7 @@ let blob3 = {
 // Platforms
 let platforms = [];
 
-// Mischief objects (small boxes the blob can bump)
+// Mischief objects (small boxes the blob can bump )
 let objects = [];
 
 function setup() {
